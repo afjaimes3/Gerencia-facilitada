@@ -1,0 +1,2630 @@
+{
+  "version": "31.5.2",
+  "data": "<mxfile host=\"app.diagrams.net\" agent=\"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Safari/537.36 Edg/144.0.0.0\" version=\"29.3.4\"><diagram name=\"Página-1\" id=\"ESSFXjxS8wMuJiz4INWL\">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</diagram></mxfile>",
+  "pages": [
+    {
+      "id": "ESSFXjxS8wMuJiz4INWL",
+      "name": "Página-1",
+      "cells": [
+        {
+          "id": "1",
+          "type": "layer"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-55",
+          "type": "node",
+          "parent": "1"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-146",
+          "type": "node",
+          "parent": "1",
+          "label": "Maestra Proveedores"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-147",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-148",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-147",
+          "label": "PK"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-149",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-147",
+          "label": "Nit"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-150",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-151",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-150"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-152",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-150",
+          "label": "Razón Social"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-160",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-161",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-160"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-162",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-160",
+          "label": "Nombre Comercial"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-153",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-154",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-153"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-155",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-153",
+          "label": "Cuenta"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-165",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-166",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-165"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-167",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-165",
+          "label": "Banco"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-156",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-157",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-156"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-158",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-156",
+          "label": "Correo"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-186",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-187",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-186"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-188",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-186",
+          "label": "Telefono"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-169",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-146"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-170",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-169"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-171",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-169",
+          "label": "Persona de contacto"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-189",
+          "type": "node",
+          "parent": "1",
+          "label": "Cartera"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-190",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-191",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-190",
+          "label": "PK"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-192",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-190",
+          "label": "IdMovimiento"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-193",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-194",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-193",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-195",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-193",
+          "label": "Nit_Proveedor"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-196",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-197",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-196",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-198",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-196",
+          "label": "Id_TipoMovimiento"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-199",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-200",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-199",
+          "label": "FK"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-201",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-199",
+          "label": "EmpresaDeudora"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-202",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-203",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-202",
+          "label": "FK"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-204",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-202",
+          "label": "EmpresaQuePaga"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-205",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-206",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-205"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-207",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-205",
+          "label": "Valor"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-208",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-189"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-209",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-208"
+        },
+        {
+          "id": "Z__41GEXvSCUd-qwAdmF-210",
+          "type": "node",
+          "parent": "Z__41GEXvSCUd-qwAdmF-208",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-2",
+          "type": "edge",
+          "parent": "1",
+          "source": "Z__41GEXvSCUd-qwAdmF-147",
+          "target": "Z__41GEXvSCUd-qwAdmF-193"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-3",
+          "type": "node",
+          "parent": "1",
+          "label": "MovimientosCartera"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-4",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-3"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-5",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-4",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-6",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-4",
+          "label": "IdMovimiento"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-7",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-3"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-8",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-7",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-9",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-7",
+          "label": "Movimiento(Abono, Saldo Inicial)",
+          "html": "<b>Movimiento</b>(Abono, Saldo Inicial)"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-25",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-4",
+          "target": "Z__41GEXvSCUd-qwAdmF-196"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-26",
+          "type": "node",
+          "parent": "1",
+          "label": "Empresas"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-27",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-26"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-28",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-27",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-29",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-27",
+          "label": "IdEmpresa"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-30",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-26"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-31",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-30",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-32",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-30",
+          "label": "Nombre (Maquigolden, Blue sky, Rocanorte)",
+          "html": "<b>Nombre</b> (Maquigolden, Blue sky, Rocanorte)"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-33",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-27",
+          "target": "Z__41GEXvSCUd-qwAdmF-199"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-34",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-27",
+          "target": "Z__41GEXvSCUd-qwAdmF-202"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-35",
+          "type": "node",
+          "parent": "1",
+          "label": "CompraACPM"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-36",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-37",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-36",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-38",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-36",
+          "label": "ConsecutivoCompra"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-152",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-153",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-152"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-154",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-152",
+          "label": "ConsecutivoEDS"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-39",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-40",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-39"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-41",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-39",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-42",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-43",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-42"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-44",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-42",
+          "label": "Factura"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-45",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-46",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-45",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-47",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-45",
+          "label": "IdProveedor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-48",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-49",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-48",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-50",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-48",
+          "label": "IdProducto"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-51",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-52",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-51",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-53",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-51",
+          "label": "Vehiculo",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">Vehiculo</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-54",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-55",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-54"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-56",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-54",
+          "label": "CanecasEntregadas"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-57",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-58",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-57"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-59",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-57",
+          "label": "GalonesComprados"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-61",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-62",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-61"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-63",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-61",
+          "label": "PrecioXGalon"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-65",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-66",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-65"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-67",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-65",
+          "label": "Kilometraje/Horometro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-218",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-219",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-218",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-220",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-218",
+          "label": "IdColaborador"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-69",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-70",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-69",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-71",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-69",
+          "label": "IdActividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-73",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-35"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-74",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-73"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-75",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-73",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-60",
+          "type": "edge",
+          "parent": "1",
+          "source": "Z__41GEXvSCUd-qwAdmF-147",
+          "target": "diO3TjWSOJJ6OkXlKzde-45"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-76",
+          "type": "node",
+          "parent": "1",
+          "label": "ProductosEDS"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-77",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-76"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-78",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-77",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-79",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-77",
+          "label": "IdProducto"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-80",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-76"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-81",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-80",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-82",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-80",
+          "label": "Producto(ACPM, Corriente)",
+          "html": "<b>Producto(ACPM, Corriente)</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-83",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-77",
+          "target": "diO3TjWSOJJ6OkXlKzde-48"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-84",
+          "type": "node",
+          "parent": "1",
+          "label": "Vehiculos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-85",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-84"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-86",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-85",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-87",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-85",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-92",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-84"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-93",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-92"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-94",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-92",
+          "label": "Tipo Vehiculo",
+          "html": "<span>Tipo Vehiculo</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-88",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-84"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-89",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-88"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-90",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-88",
+          "label": "NombreVehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-95",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-85",
+          "target": "diO3TjWSOJJ6OkXlKzde-51"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-106",
+          "type": "node",
+          "parent": "1",
+          "label": "Actividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-107",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-106"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-108",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-107",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-109",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-107",
+          "label": "IdActividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-110",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-106"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-111",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-110"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-112",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-110",
+          "label": "Actividad(Mineria, Renta)",
+          "html": "<b>Actividad(Mineria, Renta)</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-113",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-107",
+          "target": "diO3TjWSOJJ6OkXlKzde-69"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-114",
+          "type": "node",
+          "parent": "1",
+          "label": "Gastos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-115",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-116",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-115",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-117",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-115",
+          "label": "ConsecutivoGasto"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-118",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-119",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-118"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-120",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-118",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-121",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-122",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-121"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-123",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-121",
+          "label": "Factura"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-124",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-125",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-124",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-126",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-124",
+          "label": "IdProveedor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-127",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-128",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-127"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-129",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-127",
+          "label": "Descripcion"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-130",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-131",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-130",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-132",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-130",
+          "label": "IdClasificación",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">IdClasificación</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-133",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-134",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-133",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-135",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-133",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-136",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-137",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-136",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-138",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-136",
+          "label": "IdColaborador"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-139",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-140",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-139"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-141",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-139",
+          "label": "Valor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-145",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-146",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-145",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-147",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-145",
+          "label": "IdActividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-148",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-114"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-149",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-148"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-150",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-148",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-155",
+          "type": "node",
+          "parent": "1",
+          "label": "TiposGastos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-156",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-155"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-157",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-156",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-158",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-156",
+          "label": "IdTipoGasto"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-159",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-155"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-160",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-159",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-161",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-159",
+          "label": "Tipo(Mantenimiento, Repuestos, Otrosl)",
+          "html": "<b>Tipo</b>(Mantenimiento, Repuestos, Otrosl)"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-175",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-156",
+          "target": "diO3TjWSOJJ6OkXlKzde-130"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-177",
+          "type": "edge",
+          "parent": "1",
+          "source": "Z__41GEXvSCUd-qwAdmF-147",
+          "target": "diO3TjWSOJJ6OkXlKzde-124"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-180",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-85",
+          "target": "diO3TjWSOJJ6OkXlKzde-133"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-181",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-107",
+          "target": "diO3TjWSOJJ6OkXlKzde-145"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-182",
+          "type": "node",
+          "parent": "1",
+          "label": "HorasMaquina"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-183",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-184",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-183",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-185",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-183",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-186",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-187",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-186"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-188",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-186",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-189",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-190",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-189",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-191",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-189",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-192",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-193",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-192"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-194",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-192",
+          "label": "HoraInicioGPS"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-195",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-196",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-195"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-197",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-195",
+          "label": "HoraFinGPS"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-198",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-199",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-198"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-200",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-198",
+          "label": "HorometroIncial",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">HorometroIncial</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-201",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-202",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-201"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-203",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-201",
+          "label": "HorometroFinal"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-204",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-205",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-204",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-206",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-204",
+          "label": "IdOperador"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-210",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-211",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-210",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-212",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-210",
+          "label": "IdActividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-236",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-237",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-236"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-238",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-236",
+          "label": "ACPM"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-240",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-241",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-240"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-242",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-240",
+          "label": "Orden de trabajo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-244",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-245",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-244"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-246",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-244",
+          "label": "Fecha Ultima lavada"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-213",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-182"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-214",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-213"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-215",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-213",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-216",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-85",
+          "target": "diO3TjWSOJJ6OkXlKzde-189"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-221",
+          "type": "node",
+          "parent": "1",
+          "label": "Colaborador"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-222",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-221"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-223",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-222",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-224",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-222",
+          "label": "Documento"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-225",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-221"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-226",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-225"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-227",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-225",
+          "label": "Nombre",
+          "html": "<b>Nombre</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-228",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-221"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-229",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-228"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-230",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-228",
+          "label": "Cargo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-231",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-222",
+          "target": "diO3TjWSOJJ6OkXlKzde-218"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-232",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-222",
+          "target": "diO3TjWSOJJ6OkXlKzde-136"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-233",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-222",
+          "target": "diO3TjWSOJJ6OkXlKzde-204"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-234",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-107",
+          "target": "diO3TjWSOJJ6OkXlKzde-210"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-247",
+          "type": "node",
+          "parent": "1",
+          "label": "InventarioACPM-Mina"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-248",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-249",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-248",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-250",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-248",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-251",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-252",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-251"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-253",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-251",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-254",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-255",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-254"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-256",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-254",
+          "label": "Recibo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-257",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-258",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-257"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-259",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-257",
+          "label": "Horometro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-260",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-261",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-260"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-262",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-260",
+          "label": "Hora"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-263",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-264",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-263",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-265",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-263",
+          "label": "Responsable de entrega",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">Responsable de entrega</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-266",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-267",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-266",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-268",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-266",
+          "label": "Responsable de recibir"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-269",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-270",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-269"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-271",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-269",
+          "label": "Canecas"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-272",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-273",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-272"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-274",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-272",
+          "label": "Galones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-275",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-276",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-275"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-277",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-275",
+          "label": "Movimiento (Entrada/Salida)"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-278",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-279",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-278"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-280",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-278",
+          "label": "Destino"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-281",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-282",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-281",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-283",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-281",
+          "label": "IdActividad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-284",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-247"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-285",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-284"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-286",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-284",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-287",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-222",
+          "target": "diO3TjWSOJJ6OkXlKzde-263"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-288",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-222",
+          "target": "diO3TjWSOJJ6OkXlKzde-266"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-289",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-107",
+          "target": "diO3TjWSOJJ6OkXlKzde-281"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-471",
+          "type": "node",
+          "parent": "1",
+          "label": "Lubricantes"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-472",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-473",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-472",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-474",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-472",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-475",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-476",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-475"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-477",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-475",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-478",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-479",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-478",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-480",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-478",
+          "label": "IdTipo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-481",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-482",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-481",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-483",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-481",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-484",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-485",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-484"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-486",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-484",
+          "label": "Horometro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-487",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-488",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-487"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-489",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-487",
+          "label": "Kilometraje"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-490",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-491",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-490"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-492",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-490",
+          "label": "IdLubricante",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">IdLubricante</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-493",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-494",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-493"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-495",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-493",
+          "label": "Cantidad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-497",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-498",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-497"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-499",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-497",
+          "label": "Movimiento (Entrada/Salida)"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-501",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-471"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-502",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-501"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-503",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-501",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-290",
+          "type": "node",
+          "parent": "1",
+          "label": "OperaciónVolquetasCeramica"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-291",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-292",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-291",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-293",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-291",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-294",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-295",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-294"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-296",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-294",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-331",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-332",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-331"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-333",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-331",
+          "label": "Ticket"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-297",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-298",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-297",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-299",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-297",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-300",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-301",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-300",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-302",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-300",
+          "label": "IdConductor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-303",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-304",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-303"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-305",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-303",
+          "label": "Toneladas"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-306",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-307",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-306"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-308",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-306",
+          "label": "ValorTonelada",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">ValorTonelada</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-309",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-310",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-309"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-311",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-309",
+          "label": "LoteSAP"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-312",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-313",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-312"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-314",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-312",
+          "label": "LoteInterno"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-315",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-316",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-315"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-317",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-315",
+          "label": "Patio"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-318",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-319",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-318"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-320",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-318",
+          "label": "%PagoConductor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-327",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-290"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-328",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-327"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-329",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-327",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-334",
+          "type": "node",
+          "parent": "1",
+          "label": "OperaciónVolquetasMina"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-335",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-336",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-335",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-337",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-335",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-338",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-339",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-338"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-340",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-338",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-341",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-342",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-341"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-343",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-341",
+          "label": "CertificadoOrigen"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-344",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-345",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-344",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-346",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-344",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-347",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-348",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-347",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-349",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-347",
+          "label": "IdConductor"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-350",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-351",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-350"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-352",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-350",
+          "label": "ViajesInternos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-353",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-354",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-353"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-355",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-353",
+          "label": "ValorViaje",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">ValorViaje</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-356",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-357",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-356"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-358",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-356",
+          "label": "Origen"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-359",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-360",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-359"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-361",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-359",
+          "label": "Destino"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-368",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-334"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-369",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-368"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-370",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-368",
+          "label": "Observaciones"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-371",
+          "type": "node",
+          "parent": "1",
+          "label": "Vehiculos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-372",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-371"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-373",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-372",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-374",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-372",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-375",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-371"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-376",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-375"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-377",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-375",
+          "label": "Tipo Vehiculo",
+          "html": "<span>Tipo Vehiculo</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-378",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-371"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-379",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-378"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-380",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-378",
+          "label": "NombreVehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-381",
+          "type": "node",
+          "parent": "1",
+          "label": "Colaborador"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-382",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-381"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-383",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-382",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-384",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-382",
+          "label": "Documento"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-385",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-381"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-386",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-385"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-387",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-385",
+          "label": "Nombre",
+          "html": "<b>Nombre</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-388",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-381"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-389",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-388"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-390",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-388",
+          "label": "Cargo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-423",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-372",
+          "target": "diO3TjWSOJJ6OkXlKzde-344"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-424",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-372",
+          "target": "diO3TjWSOJJ6OkXlKzde-297"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-425",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-382",
+          "target": "diO3TjWSOJJ6OkXlKzde-347"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-426",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-382",
+          "target": "diO3TjWSOJJ6OkXlKzde-300"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-427",
+          "type": "node",
+          "parent": "1",
+          "label": "MantenimientosProgramados"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-428",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-429",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-428",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-430",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-428",
+          "label": "ConsecutivoRegistro"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-431",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-432",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-431"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-433",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-431",
+          "label": "Fecha"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-434",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-435",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-434",
+          "label": "FK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-436",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-434",
+          "label": "IdTipo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-437",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-438",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-437",
+          "label": "FK",
+          "html": "<b>FK</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-439",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-437",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-440",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-441",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-440"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-442",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-440",
+          "label": "InsumoUsado"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-443",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-444",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-443"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-445",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-443",
+          "label": "Unidad"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-446",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-447",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-446"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-448",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-446",
+          "label": "Cantidad",
+          "html": "<span style=\"text-wrap-mode: nowrap;\">Cantidad</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-449",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-427"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-450",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-449"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-451",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-449",
+          "label": "Precio"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-458",
+          "type": "node",
+          "parent": "1",
+          "label": "TipoMTTO-Programado"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-459",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-458"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-460",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-459",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-461",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-459",
+          "label": "IdTipoMantenimiento"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-462",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-458"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-463",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-462"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-464",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-462",
+          "label": "Tipo de mantenimiento",
+          "html": "<b>Tipo de mantenimiento</b>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-468",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-459",
+          "target": "diO3TjWSOJJ6OkXlKzde-434"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-469",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-372",
+          "target": "diO3TjWSOJJ6OkXlKzde-437"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-504",
+          "type": "node",
+          "parent": "1",
+          "label": "MaestraLubricantes"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-505",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-504"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-506",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-505",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-507",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-505",
+          "label": "IdTipoLubricante"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-512",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-504"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-513",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-512"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-514",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-512",
+          "label": "NombreLubricante"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-516",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-504"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-517",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-516"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-518",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-516",
+          "label": "Unidad de presentación"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-508",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-504"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-509",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-508"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-510",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-508",
+          "label": "Ultimo Precio"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-519",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-505",
+          "target": "diO3TjWSOJJ6OkXlKzde-478"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-521",
+          "type": "node",
+          "parent": "1",
+          "label": "Vehiculos"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-522",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-521"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-523",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-522",
+          "label": "PK"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-524",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-522",
+          "label": "Vehiculo"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-525",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-521"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-526",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-525"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-527",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-525",
+          "label": "Tipo Vehiculo",
+          "html": "<span>Tipo Vehiculo</span>"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-528",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-521"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-529",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-528"
+        },
+        {
+          "id": "diO3TjWSOJJ6OkXlKzde-530",
+          "type": "node",
+          "parent": "diO3TjWSOJJ6OkXlKzde-528",
+          "label": "NombreVehiculo"
+        },
+        {
+          "id": "NmiZzMc0_axaYutBCtQv-4",
+          "type": "edge",
+          "parent": "1",
+          "source": "diO3TjWSOJJ6OkXlKzde-522",
+          "target": "diO3TjWSOJJ6OkXlKzde-481"
+        }
+      ]
+    }
+  ]
+}
